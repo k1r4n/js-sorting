@@ -15,3 +15,5 @@ const linearSort = (arr) => {
 }
 
 console.log(linearSort([4, 2, 1, 3, 7, 6, 5, 3, 2, 10, 9]));
+console.log(linearSort([4]));
+console.log(linearSort([]));
